@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kelvinsalgado/projects/HelloWorld/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "/Users/kelvinsalgado/projects/mosh-csharp/HelloWorld/HelloWorld/HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "/Users/kelvinsalgado/projects/HelloWorld/HelloWorld/HelloWorld.csproj",
+      "projectPath": "/Users/kelvinsalgado/projects/mosh-csharp/HelloWorld/HelloWorld/HelloWorld.csproj",
       "packagesPath": "/Users/kelvinsalgado/.nuget/packages/",
-      "outputPath": "/Users/kelvinsalgado/projects/HelloWorld/HelloWorld/obj/",
+      "outputPath": "/Users/kelvinsalgado/projects/mosh-csharp/HelloWorld/HelloWorld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kelvinsalgado/.config/NuGet/NuGet.Config"
